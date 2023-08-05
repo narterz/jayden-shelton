@@ -2,7 +2,7 @@
 
 Hey there im jayden 👋. I like to create meaningful and visually appealing web apps that solve real life problems. The coding projects you'll see document my journey through web development, Ranging from small projects using HTML, CSS, and Javascript to large projects using React, Typescript, and TailwindCSS. Over the years I have familiarized myself with a wide variety of tech and I plan to expand my capabilities as I work on more projects. 
 
-- 🌱 I’m currently learning **SQL, MongoDB**
+- 🌱 I’m currently learning **MongoDB, ASP.net**
 
 - 👨‍💻 All of my projects are available at [sheltonstyles.com](sheltonstyles.com)
 
